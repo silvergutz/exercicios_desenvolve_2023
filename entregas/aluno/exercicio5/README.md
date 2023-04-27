@@ -1,1 +1,0 @@
-# Resolução do exercício
