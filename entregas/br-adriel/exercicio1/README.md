@@ -1,6 +1,6 @@
 # Exercício 1
 
-O arquivo `solucao.js` contido na pasta têm o script de solução doe exercício 1.
+O arquivo `solucao.js` contido na pasta têm o script de solução do exercício 1.
 
 - A solução é um script javascript que desenha degraus de uma escada usando o
   caractere `#`.
