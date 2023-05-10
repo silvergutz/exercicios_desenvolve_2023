@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 1</title>
+</head>
+<body>
+    <script>
+     let degrau = prompt("quantos degraus você quer na sua escada? ") 
+       function criaEscada(degraus){
+  for(let contador = 1; contador <= degraus; contador ++){
+     let simbolo = "#"
+     let espaco = " "
+    espaco = espaco.repeat( degraus - contador)
+    simbolo = simbolo.repeat( contador)
+    console.log(espaco + simbolo)
+
+  }  
+}
+criaEscada(degrau);
+    </script>
+</body>
+</html>
