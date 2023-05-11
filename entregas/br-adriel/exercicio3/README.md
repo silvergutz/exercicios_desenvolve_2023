@@ -13,7 +13,7 @@ O arquivo `solucao.js` contido na pasta é o script de solução do exercício 3
 Para executar o script de resposta você precisa ter o [Node JS](https://nodejs.org/en)
 instalado em sua máquina.
 
-1. Abra a pasta `exercicio1` no terminal
+1. Abra a pasta `exercicio3` no terminal
 
 2. Execute o comando abaixo, onde `[altura]` deve ser substituído pelo
    número de degraus que você deseja ter na escada
